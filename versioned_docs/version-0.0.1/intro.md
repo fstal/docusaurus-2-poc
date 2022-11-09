@@ -5,6 +5,7 @@ sidebar_position: 1
 # Documentation Intro
 
 This is version 0.0.1
+
 Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
