@@ -51,10 +51,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'A cool documentation platform',
+        title: 'Doc PoC',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/ABB_logo.svg',
         },
         items: [
           {
