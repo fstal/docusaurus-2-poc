@@ -76,6 +76,9 @@ const config = {
             position: 'right',
           },
           {
+            type: 'docsVersionDropdown',
+          },
+          {
             position: 'right',
             type: 'localeDropdown',
           },
