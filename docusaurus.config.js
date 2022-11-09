@@ -35,11 +35,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/fstal/docusaurus-2-poc',
+          editUrl: 'https://github.com/fstal/docusaurus-2-poc/tree/main/',
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/fstal/docusaurus-2-poc',
+          editUrl: 'https://github.com/fstal/docusaurus-2-poc/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
