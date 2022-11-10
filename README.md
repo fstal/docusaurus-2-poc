@@ -2,7 +2,7 @@
 
 This repo is a brief example of a [Docusaurus](https://v2.docusaurus.io) site that can be deployed to Vercel with very little configuration.
 
-### How We Created This Example
+### How I Created This Example
 
 To get started with Docusaurus on Vercel, you can use the [Docusaurus CLI](https://v2.docusaurus.io/docs/installation#scaffold-project-website) to initialize the project:
 
