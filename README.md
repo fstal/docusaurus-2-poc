@@ -10,4 +10,4 @@ To get started with Docusaurus on Vercel, you can use the [Docusaurus CLI](https
 npx create-docusaurus@latest my-website classic
 ```
 
-or initialize it directly on vercel using the Docusaurus 2 templete.
+or initialize it directly on vercel using the Docusaurus 2 template.
