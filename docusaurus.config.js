@@ -36,6 +36,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/fstal/docusaurus-2-poc/tree/main/',
+          editLocalizedFiles: true,
         },
         blog: {
           showReadingTime: true,
